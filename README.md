@@ -1,1 +1,3 @@
-"# fine-tuning-stable-diffusion" 
+# fine-tuning-stable-diffusion
+
+Install pytorch yourself

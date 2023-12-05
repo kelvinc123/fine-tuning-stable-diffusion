@@ -1,0 +1,12 @@
+opencv-python
+numpy
+matplotlib
+seaborn
+Pillow
+tqdm
+tensorboard
+transformers
+diffusers
+accelerate
+ipykernel
+jupyter

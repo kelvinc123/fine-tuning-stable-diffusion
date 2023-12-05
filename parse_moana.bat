@@ -1,0 +1,1 @@
+python parse_video.py 10000 2 95 "dataset/moana.mkv" "dataset/moana_raw_images"

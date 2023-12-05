@@ -1,0 +1,1 @@
+python parse_video.py 10000 2 95 "dataset/Zootopia 2016.mkv" "dataset/zootopia2_raw_images"

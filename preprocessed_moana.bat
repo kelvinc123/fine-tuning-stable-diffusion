@@ -1,0 +1,1 @@
+python preprocessed_images.py "dataset/moana_raw_images" "dataset/moana_preprocessed_images" 512

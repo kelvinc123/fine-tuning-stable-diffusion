@@ -1,0 +1,1 @@
+python preprocessed_images.py "dataset/zootopia_raw_images" "dataset/zootopia_preprocessed_images_256" 256
